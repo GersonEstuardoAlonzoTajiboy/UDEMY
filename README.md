@@ -1,6 +1,6 @@
 # UDEMY
 
-**# Portafolio de cursos recibidos por Gerson Estuardo Alonzo Tajiboy
+**# Portafolio de Cursos en Udemy de Gerson Estuardo Alonzo Tajiboy
 
-Este portafolio destaca una diversidad de proyectos que reflejan mis habilidades y experiencia en el diseño, desarrollo y gestión de aplicaciones. Estos proyectos no solo muestran mi capacidad para trabajar, sino también para abordar diversos aspectos del desarrollo de software.
+Bienvenido a mi portafolio, donde presento una selección de cursos y certificaciones que he completado en Udemy, junto con los proyectos asociados a cada uno. Este repositorio refleja mi experiencia en el diseño, desarrollo y gestión de aplicaciones, destacando mis habilidades en diversos aspectos del desarrollo de software.
 
